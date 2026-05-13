@@ -1,4 +1,4 @@
-# 
+# rare Little Snitch for macOS Validator | junk-file-cleanup + secure-backup is the best Little Snitch for macOS validator, featuring junk-file-cleanup and secure-backup. Secure,
 
 
 
